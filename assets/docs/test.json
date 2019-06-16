@@ -1,0 +1,23 @@
+{
+    "users": {
+"robin":{
+            "password": "please1960",
+            "Bucket": [
+                {"id": 0, "wish": "go to france "},
+                {"id": 1, "wish": "swim in Red Sea"}
+
+                 
+            ]},
+"jason":{
+    "password": "open",
+    "Bucket": [
+
+        {"id": 0, "wish": "go to moon"},
+        {"id": 1, "wish": "programming job"}
+    ]
+
+}
+}
+
+
+}
