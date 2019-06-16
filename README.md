@@ -1,7 +1,9 @@
-# group-project-1
-group project #1
+# BucketList
 
- https://christopherbellpepper.github.io/group-project-1/
+[LinkedIn](https://www.linkedin.com/in/jason-lloyd-a0ba9529/)
+[BucketList App](https://jll9qw.github.io/BucketList/)
+[Github repo] (https://github.com/jll9qw/BucketList)
+
 
 1. Login or Create a user profile
 2. Once, you've entered the app, create a wish list of Bucket List items you'd like to accomplish.
