@@ -9,6 +9,6 @@
 
 **[LinkedIn](https://www.linkedin.com/in/jason-lloyd-a0ba9529/)**
 
-**[BucketList App] (https://jll9qw.github.io/BucketList/)**
+**[BucketList App](https://jll9qw.github.io/BucketList/)**
 
-**[Github repo] (https://github.com/jll9qw/BucketList)**
+**[Github repo](https://github.com/jll9qw/BucketList)**
